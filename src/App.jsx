@@ -25,10 +25,8 @@ const generateReferralCode = () => {
 
 // --- Firebase Initialization ---
 
-// IMPORTANT: PASTE YOUR FIREBASE CONFIG HERE
-// To run this project locally, you need to create a Firebase project
-// and replace the placeholder values below with your actual Firebase config.
-// You can find this in your Firebase project settings.
+// NOTE: Your Firebase config is sensitive and should not be committed to a public repository.
+// It's best to use environment variables for this in a real project.
 const firebaseConfigFromUser = {
   apiKey: "AIzaSyC6of6J7JT7iYWPj_23H-3UnJLdTauTrTY",
   authDomain: "intern-dashboard-addbf.firebaseapp.com",
